@@ -5,6 +5,7 @@
   background-size: cover;
   position: relative;
   color: white;
+  line-height: 1;
 }
 
 .content-header-logo {
